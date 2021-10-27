@@ -4,7 +4,7 @@
 ---
 
 
-<img src="https://github.com/christopherfick/christopherfick/blob/main/UnderConstruction.gif" width="800" height="600" />
+<img src="https://github.com/christopherfick/christopherfick/blob/main/Gifs/UnderConstruction.gif" width="800" height="600" />
 
 ## #Welcome message
 
