@@ -3,6 +3,9 @@
 
 ---
 
+
+<img src="https://github.com/christopherfick/christopherfick/blob/main/UnderConstruction.gif" width="500" height="800" />
+
 ## #Welcome message
 
         Welcome to my profile
@@ -14,7 +17,6 @@
     }
     
     
-<img src="https://github.com/christopherfick/christopherfick/blob/main/UnderConstruction.gif" width="100" height="100" />
 
 
 
