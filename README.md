@@ -4,8 +4,7 @@
 ---
 ## Welcome stranger 👽
 
-Please excuse the mess at this time, even as every building has a
-humble beginning in the foundation phase so too does this profile.
+Please excuse the mess at this time.
 
 <img src="https://github.com/christopherfick/christopherfick/blob/main/Gifs/UnderConstruction.gif" width="800" height="600" />
 
