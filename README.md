@@ -1,12 +1,7 @@
-# Banner goes here.
-🏃 🏃 🏃
+<img src="https://github.com/christopherfick/christopherfick/blob/main/banner/banner.png"/>
 
 ---
-## Welcome stranger 👽
-
-Please excuse the mess at this time.
-
-<img src="https://github.com/christopherfick/christopherfick/blob/main/Gifs/UnderConstruction.gif" width="800" height="600" />
+## Hi there
 
 
     
