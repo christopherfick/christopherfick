@@ -1,8 +1,7 @@
 <img src="https://github.com/christopherfick/christopherfick/blob/main/banner/banner.png"/>
 
 ---
-## Hi there
-
+## Hi there 😁
 
     
     
