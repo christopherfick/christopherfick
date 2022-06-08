@@ -1,12 +1,12 @@
 <img src="https://github.com/christopherfick/christopherfick/blob/main/banner/banner.png"/>
 
 ---
-<blockquote align="center">
-"It always seems impossible until it's done" <br>
-    <footer align="right">
-        <em><strong> ~ Nelson Mandela </strong></em>
-    </footer>
-</blockquote>
+
+<p align="center">"It always seems impossible until it's done" <br> <em>~ Nelson Mandela </em><p>
+<br> <br>
+
+
+
 
 
 
